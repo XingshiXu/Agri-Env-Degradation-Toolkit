@@ -27,7 +27,7 @@ $$I(x) = J(x)t(x) + A(1 - t(x))$$
 Joint adjustment of Gamma ($\gamma$) and Attenuation ($\alpha$):
 - **$(\gamma, \alpha)$:** $\{(1.2, 0.9), (1.5, 0.7), (2.0, 0.5), (2.5, 0.4)\}$
 
-本仓库的构建 借鉴了以下计算机视觉领域经典数据集的制作思路与物理建模方法：
+The construction of this warehouse draws on the production ideas and physical modeling methods of the following classic datasets in the field of computer vision:  
 https://github.com/ZhangXinNan/RainDetectionAndRemoval  
 https://github.com/Boyiliee/RESIDE-dataset-link  
 https://github.com/zhangyhuaee/KinD  
